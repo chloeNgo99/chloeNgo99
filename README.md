@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 - :mushroom: Beside code, I'm also enjoy creating art and content
 - :email: Feel free to reach me @chloengo1704@gmail.com
 
-<div style="display: flex; flex-direction: row;">
 
-<img align="center" style="height: auto; width: 47%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&layout=compact" />
+![chloe's GitHub summary](https://github-readme-stats.vercel.app/api?username=chloeNgo99&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&layout=compact)
 
-<img align="center" style="height: auto; width: 47%;" src="https://github-readme-stats.vercel.app/api?username=chloeNgo99&theme=buefy" />
-
-</div>
 
 ### Languages and Tools: 
 <img align="left" width="7%" src="https://cdn-icons-png.flaticon.com/128/311/311288.png" />
