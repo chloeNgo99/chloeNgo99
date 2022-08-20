@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - :email: Feel free to reach me @chloengo1704@gmail.com
 
 <div style="display: flex; flex-direction: row;">
-<img src="https://github-readme-stats.vercel.app/api?username=chloeNgo99&show_icons=true&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&theme=buefy&langs_count=8&layout=compact&hide_border=false"/>
+<img style="height:190px ;width: 47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&theme=buefy&langs_count=8&layout=compact&hide_border=false"/>
+<img style="height:190px; width: 47%" src="https://github-readme-stats.vercel.app/api?username=chloeNgo99&show_icons=true&theme=buefy" />
 </div>
 
 ### Languages and Tools: 
