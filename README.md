@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row;">
 
-<img align="center" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&layout=compact" />
+<img align="center" style="height: auto; width: 47%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&layout=compact" />
 
-<img align="center" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=chloeNgo99&theme=buefy" />
+<img align="center" style="height: auto; width: 47%;" src="https://github-readme-stats.vercel.app/api?username=chloeNgo99&theme=buefy" />
 
 </div>
 
