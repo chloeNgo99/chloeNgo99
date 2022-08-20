@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - :mushroom: Beside code, I'm also enjoy creating art and content
 - :email: Feel free to reach me @chloengo1704@gmail.com
 
-![github stats](https://github-readme-stats.vercel.app/api?username=chloeNgo99&theme=buefy)
-
 <div style="display: flex; flex-direction: row;">
 
 <img align="center" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&layout=compact" />
