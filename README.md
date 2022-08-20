@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeNgo99&layout=compact" />
 
-<br />
 
 ### Languages and Tools:
+
 <img align="left" width="7%" src="https://cdn-icons-png.flaticon.com/128/311/311288.png" />
 <img align="left" width="7%" src="https://cdn-icons-png.flaticon.com/128/4785/4785958.png" />
 <img align="left" width="7%" src="https://cdn-icons-png.flaticon.com/128/8025/8025397.png" />
