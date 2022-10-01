@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :round_pushpin: I'm a 3rd year CS student @UW
-- :black_nib: I'm currently self-learning React on Scrimba
+- :black_nib: I'm currently self-learning React
 - :mushroom: Besides code, I also enjoy creating art and content
 - :email: Feel free to reach me @chloengo1704@gmail.com
 
